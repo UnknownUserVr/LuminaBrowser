@@ -24,7 +24,15 @@ if also have a form of donation support if you are feeling generouse to do so "a
 
 in order to ensure proper codepacks and other forms of code get cloned properly and opened with no errors please use visual studio 2019 and up.
 most of the mainframe files are already implamented in the LuminaBrowser by defalt, unlike google chrome this browser aims to put your privicy first
-if you wish to discuss any of the features you added to the source code or you have added something that you wish to se in the next update please send any files and attachments to my gmail cleverdamontoutube@gmail.com for any questions or repository related updates.
+if you wish to discuss any of the features you added to the source code or you have added something that you wish to se in the next update please send any files and attachments to my gmail luminabrowser@gmail.com for any questions or repository related updates. NOTE: Emails are read at my own time, im a frequiently busy person so i may be not as quick on responding to any source related emails or questions.
 
 # APIs
 this browser uses the CefSharp browser component to make the CoreBrowsing Experience possible in the first place, the rest is expanded upon me and the open source community.
+
+# TabRenders
+the way that the tabs work is with a customized version of FireTabs Nuget, i cannot provide the FireTabs Codebase as i do not own it, but if you wish to customize the browser tabs for my project be sure to aqire the code from him, here is his youtube channel "https://www.youtube.com/@J-Coding"
+all credit to him for making this browsing experince possible
+
+# Supported Platforms
+
++ as of now the Source Code only works on windows, as the project expands i will include more open minded support for other operating systems.
