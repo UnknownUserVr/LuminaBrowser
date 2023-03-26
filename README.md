@@ -17,5 +17,14 @@ it may prompt you to install a newer version of .NET Framework if needed, you ma
 
 
 Any form of support is greatly thanked, i am trying to make a goal of making a advanced web browser "like google chrome" in a visual studio windows forms project, with this project i hope to make that a reallity
-
 if also have a form of donation support if you are feeling generouse to do so "any form of support is gratly needed and appreaciated".
+
+
+# Nice To Know Infermation
+
+in order to ensure proper codepacks and other forms of code get cloned properly and opened with no errors please use visual studio 2019 and up.
+most of the mainframe files are already implamented in the LuminaBrowser by defalt, unlike google chrome this browser aims to put your privicy first
+if you wish to discuss any of the features you added to the source code or you have added something that you wish to se in the next update please send any files and attachments to my gmail cleverdamontoutube@gmail.com for any questions or repository related updates.
+
+# APIs
+this browser uses the CefSharp browser component to make the CoreBrowsing Experience possible in the first place, the rest is expanded upon me and the open source community.
