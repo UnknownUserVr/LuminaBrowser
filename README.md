@@ -39,3 +39,12 @@ all credit to him for making this browsing experince possible
 # Supported Platforms
 
 + as of now the Source Code only works on windows, as the project expands i will include more open minded support for other operating systems.
+
+
+# Component Details
+
+![otherbrowserase](https://user-images.githubusercontent.com/115958199/227820278-0c58a526-9cfe-409b-a99f-c9266102fb59.PNG)
+
+The Browsers Core Functionallity is written in C# winforms, whitch also contains the pre built codebase for FireTabs "Indirectly"
+the winforms browser project also has some JavaScript and HTML + some CSS to.
+so the lumina browser has a wide range of codebases implamented upon it, if you wish to make advanced modifications
